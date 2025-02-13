@@ -25,4 +25,4 @@ Artes do dominó:
 ## 📄 Artigo
 Mais detalhes sobre o projeto podem ser encontrados no artigo abaixo:
 <br/>
-📖 [Leia o artigo]()
+📖 [Leia o artigo](https://docs.google.com/document/d/1tp2-gx_ilfyT6j__RjzM0i-1doNuHQWjQhtqShdcj-Y/edit?tab=t.0)
