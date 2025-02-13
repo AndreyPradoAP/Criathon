@@ -4,7 +4,7 @@ Um jogo de dominó para facilitar o aprendizado dos componentes de um computador
 <br/>
 
 ## 📢 Sobre o Projeto
-O Criathon é um jogo educativo inspirado no dominó tradicional, projetado para auxiliar estudantes no aprendizado sobre os componentes de um computador. Através de peças personalizadas, os jogadores associam conceitos, tornando o estudo mais dinâmico e envolvente.
+O dominó de AOC é um jogo educativo inspirado no dominó tradicional, projetado para auxiliar estudantes no aprendizado sobre os componentes que formam um computador. Através de peças personalizadas, os jogadores associam conceitos, tornando o estudo mais dinâmico e envolvente.
 
 ## 🎥 Demonstração
 Vídeo explicativo sobre o projeto no YouTube:
